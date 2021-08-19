@@ -1,4 +1,4 @@
-# This is a fork of Jagrosh's Music Bot for use as the bot behind WJEB Radio, 101.5 FM Milwaukee's Classic Country. I don't plan on changing much at all except to remove checks that see if people are connected to the Discord call, since most of our listeners are tuned in over the radio.
+**This is a fork of Jagrosh's Music Bot for use as the bot behind WJEB Radio, 101.5 FM Milwaukee's Classic Country. I don't plan on changing much at all except to remove checks that see if people are connected to the Discord call, since most of our listeners are tuned in over the radio.**
   
   
 <img align="right" src="https://i.imgur.com/zrE80HY.png" height="200" width="200">
